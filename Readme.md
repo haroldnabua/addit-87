@@ -1,13 +1,13 @@
 Addit '87 📓✨
 
+--- 
+
 A Python re-creation of Addit '87 from The Lake. This version is a fully functional retro journaling tool where you can:
 - 📝 Add journal entries
 - ✏️ Edit existing entries
 - 👀 View all entries
 - 🔍 Search journals
 - 🧹 Filter entries
-
----
 
 Designed to capture the calm 80s vibe of the original in a simple Python package.
 
@@ -31,7 +31,6 @@ In the game The Lake, Addit '87 is a cozy digital notebook. This Python version 
 
 📁 Project Structure
 addit87-diary/
-│
 ├── addit87.py # Main app
 ├── data/ # Saved journals
 ├── README.md # Repo documentation
@@ -56,4 +55,3 @@ Open source. Feel free to use, modify, or expand.
 ---
 
 Made with ☕, nostalgia, and a quiet 80s Providence Oaks atmosphere.
-    
