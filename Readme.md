@@ -29,12 +29,16 @@ In the game The Lake, Addit '87 is a cozy digital notebook. This Python version 
 
 --- 
 
-📁 Project Structure
-addit87-diary/
-├── addit87.py # Main app
-├── data/ # Saved journals
-├── README.md # Repo documentation
-└── assets/ # Optional screenshots or icons
+📁 Drop into addit87.py and run:
+    python addit87.py
+
+Or build as executable:
+    pip install pyinstaller
+    pyinstaller --onefile --name "Addit87" --icon=icon.ico addit87.py
+
+Notes:
+- Data stored in addit87_diary.json (created automatically)
+- Works on Windows and POSIX terminals that support ANSI colors
 
 ---
 

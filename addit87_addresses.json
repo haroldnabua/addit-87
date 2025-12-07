@@ -1,0 +1,29 @@
+{
+  "entries": [
+    {
+      "id": 1,
+      "date": "2025-12-07",
+      "formatted_date": "Sunday, December 07, 2025.",
+      "weekday": "Sunday",
+      "iso_year": 2025,
+      "iso_week": 49,
+      "title": "Home",
+      "content": "Harold\n969 252 2074\n1638 V. Rama Avenue C.C\n\nMama\n920 852 0065\n1638 V. Rama Avenue C.C",
+      "created_at": "2025-12-07T16:27:42",
+      "modified_at": "2025-12-07T16:38:56"
+    },
+    {
+      "id": 2,
+      "date": "2025-12-07",
+      "formatted_date": "Sunday, December 07, 2025.",
+      "weekday": "Sunday",
+      "iso_year": 2025,
+      "iso_week": 49,
+      "title": "School",
+      "content": "University of Cebu - Main Campus\nSanciangko St. C.C 6000\n6:30 - 9:00 PM (weekdays)\n6:30 AM - 6:30 PM (weekends)",
+      "created_at": "2025-12-07T16:31:30",
+      "modified_at": "2025-12-07T17:06:38"
+    }
+  ],
+  "next_id": 4
+}
